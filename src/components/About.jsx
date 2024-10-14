@@ -6,7 +6,7 @@ const About = () => {
     <section id="about">
       <h2>About Me</h2>
       <p>
-        Hello! I'm [Your Name], a passionate developer specializing in [Your Specialization]. I enjoy creating web applications that make a difference.
+        Hello! I'm [Srisha Kotte], a passionate developer specializing in [CSE]. I enjoy creating web applications that make a difference.
       </p>
       <p>
         **Skills:**
